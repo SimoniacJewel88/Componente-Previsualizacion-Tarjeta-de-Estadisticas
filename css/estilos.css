@@ -64,6 +64,8 @@ body {
 .titulo {
   font-size: 1.6rem;
   margin-bottom: 1.1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 .titulo span {
   color: #aa5cdb;
@@ -133,6 +135,7 @@ body {
   .titulo {
     font-size: 2.2rem;
     margin-bottom: 1.1rem;
+    padding-right: 2.5rem;
   }
 }
 .attribution {
